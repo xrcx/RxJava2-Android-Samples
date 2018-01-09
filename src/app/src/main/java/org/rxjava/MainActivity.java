@@ -1,7 +1,9 @@
-package rxjava.org.myrxjava2;
+package org.rxjava;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import rxjava.org.myrxjava2.R;
 
 public class MainActivity extends AppCompatActivity {
 

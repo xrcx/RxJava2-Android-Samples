@@ -1,4 +1,4 @@
-package rxjava.org.myrxjava2;
+package org.rxjava;
 
 import org.junit.Test;
 
